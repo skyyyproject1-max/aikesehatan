@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Health AI Assistant",
+  "description": "An AI-powered web application designed to assist healthcare students, professionals, and educators. It features a versatile chat assistant for academic and clinical queries, along with specialized tools for paraphrasing, AI content detection, and plagiarism checking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
